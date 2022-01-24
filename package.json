@@ -1,0 +1,23 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Marko Vučić",
+	"dependencies": {
+		"express": "^4.17.2",
+		"moment": "~2.10.2"
+	},
+	"description": "an awesome project",
+	"main": "server.js",
+	"keywords": [
+		"descriptive",
+		"related",
+		"words",
+		"freecodecamp"
+	],
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
